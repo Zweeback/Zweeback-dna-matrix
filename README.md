@@ -1,5 +1,12 @@
 # DNA Matrix
 
+## Current visual
+
+![Current visual status](docs/status/current.png)
+
+> Status evidence only: this repository does not yet contain a verified runnable screen.
+
+
 DNA Matrix is a bio-informatic encoding playground for mapping digital data into DNA-like symbol streams, evaluating storage characteristics and experimenting with error detection/correction strategies.
 
 ## Canonical direction
